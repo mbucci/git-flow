@@ -5,7 +5,7 @@ in this repo I will experiment with git workflows
 ### PRs
 
 1. develop work on a PR branch (e.g. mb/first-PR) 
-2. Create at PR of the PR branch into `master`
+2. Create a PR of the PR branch into `master`
 3. "Squash and Merge" the PR once approved
 
 
